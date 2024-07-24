@@ -2,10 +2,11 @@
 
 ## Overview
 
-This repository contains practice projects using the GTK+ 3 library. The primary goal is to familiarize myself with GTK and GUI development in C. The repository includes two simple GTK applications as examples:
+This repository contains practice projects using the GTK+ 3 library. The primary goal is to familiarize myself with GTK and GUI development in C. The repository includes the following simple GTK applications as examples:
 
 1. **Button Disappear**: A GTK application that creates a window with a button. When the button is clicked, it disappears.
 2. **Button Print Message**: A GTK application that creates a window with a button. When the button is clicked, a message is printed to the terminal. The program will exit when the window is closed.
+3. **Spinning Wheel**: A GTK application that demonstrates a spinning animation. This project is a practice for creating spinning animations in GTK.
 
 ## Notes
 
