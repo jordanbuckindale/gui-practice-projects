@@ -11,7 +11,7 @@ This repository contains practice projects using the GTK+ 3 library. The primary
 ## Notes
 
 - Detailed comments are included in the code to explain each line and how the functions and variables operate within a GUI context.
-- These projects are intended as a foundation for more complex GTK applications, such as a calculator GUI.
+- These projects are intended as a foundation for more complex GTK applications.
 
 ## Getting Started
 
